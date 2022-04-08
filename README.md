@@ -1,5 +1,5 @@
 # standard-mediation
-Dépôt du standard de médiation numérique
+Dépôt du schéma de données de l'offre de médiation numérique
 
 ### Description du projet
 Il existe un réel besoin d’une vision nationale, complète et actualisée de l’offre de médiation numérique
