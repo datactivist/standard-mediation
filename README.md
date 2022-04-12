@@ -23,3 +23,11 @@ Nous pourrons nous appuyer sur le schéma développé par AidantsConnect, aujour
 * [Compte-rendu COPIL #1](https://github.com/datactivist/standard-mediation/blob/main/Compte%20rendu%20COPIL%20%231.pdf)
 
 ### Atelier ouvert de contribution du 8 avril 2022
+
+Principaux cas d'usage identifiés et documentés
+1. [Connaitre l'offre (structures et formations) de médiation numérique de son territoire](https://github.com/datactivist/standard-mediation/blob/main/atelier1/Atelier%201%20cas%20d'usage%20(2).pdf)
+2. [Orienter simplement et efficacement les personnes qu'elle 
+accompagne vers des structures de médiation numérique proches](https://github.com/datactivist/standard-mediation/blob/main/atelier1/Atelier%201%20cas%20d'usage.pdf)
+3. [Pouvoir prendre rdv en direct pour la personne accompagnée auprès d'une structure de médiation numérique](https://github.com/datactivist/standard-mediation/blob/main/atelier1/Atelier%201%20cas%20d'usage%20(3).pdf)
+4. [Rendre lisible l'offre de médiation numérique du territoire pour améliorer le pilotage 
+de l'action sociale de la collectivité](https://github.com/datactivist/standard-mediation/blob/main/atelier1/Atelier%201%20cas%20d'usage%20(1).pdf)
