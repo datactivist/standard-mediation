@@ -13,7 +13,7 @@ Nous pourrons nous appuyer sur le schéma développé par AidantsConnect, aujour
 
 ### Réunions
 
-### Numérique en commun
+#### Numérique en commun
 
 * [Compte-rendu de l'exploration Données et territoires](https://numerique-en-communs.fr/exploration-donnees-territoires/)
 
@@ -22,7 +22,8 @@ Nous pourrons nous appuyer sur le schéma développé par AidantsConnect, aujour
 * [Atelier Klaxoon](https://github.com/datactivist/standard-mediation/blob/main/snapshot-20220407101316146-b9f521c4-07a8-4053-aedd-8ffa9cdc177e.pdf) 
 * [Compte-rendu COPIL #1](https://github.com/datactivist/standard-mediation/blob/main/Compte%20rendu%20COPIL%20%231.pdf)
 
-### Atelier ouvert de contribution du 8 avril 2022
+#### Atelier ouvert de contribution du 8 avril 2022
+* [Compte-rendu de l'atelier](https://github.com/datactivist/standard-mediation/blob/main/atelier1/Compte%20rendu%20atelier%20%231%20(1).pdf)
 
 Principaux cas d'usage identifiés et documentés
 1. [Connaitre l'offre (structures et formations) de médiation numérique de son territoire](https://github.com/datactivist/standard-mediation/blob/main/atelier1/Atelier%201%20cas%20d'usage%20(2).pdf)
