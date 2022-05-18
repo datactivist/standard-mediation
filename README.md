@@ -31,3 +31,8 @@ Principaux cas d'usage identifiés et documentés
 3. [Pouvoir prendre rdv en direct pour la personne accompagnée auprès d'une structure de médiation numérique](https://github.com/datactivist/standard-mediation/blob/main/atelier1/Atelier%201%20cas%20d'usage%20(3).pdf)
 4. [Rendre lisible l'offre de médiation numérique du territoire pour améliorer le pilotage 
 de l'action sociale de la collectivité](https://github.com/datactivist/standard-mediation/blob/main/atelier1/Atelier%201%20cas%20d'usage%20(1).pdf)
+
+#### Comité de pilotage du 5 avril 2022 
+
+* [Compte-rendu de l'atelier](https://github.com/datactivist/standard-mediation/blob/main/Compte%20rendu%20COPIL%20%232.pdf)
+* [Présentation de data inclusion](https://github.com/datactivist/standard-mediation/blob/main/Data%20Inclusion_DORA_Mai%2022.pptx%20(1).pdf)
