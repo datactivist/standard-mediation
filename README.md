@@ -44,6 +44,7 @@ de l'action sociale de la collectivité](https://github.com/datactivist/standard
 #### Atelier ouvert du 13 mai 2022 
 
 * [Compte-rendu de l'atelier](https://github.com/datactivist/standard-mediation/blob/main/Compte%20rendu%20atelier%20%232.pdf)
+* [Base de données Airtable des champs et valeurs utilisés dans les cartographies de médiation numérique](https://airtable.com/shr1RqaQgYHS2L4ME)
 
 #### Atelier ouvert du 25 mai 2022 
 
