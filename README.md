@@ -7,7 +7,11 @@ Des acteurs de la médiation numérique, notamment les hubs, ont produit de nomb
 
 Pour répondre à cet enjeu d’harmonisation des données, la standardisation permettra la construction d’un nouveau standard décrivant l’offre de médiation numérique. Elle reposera sur un travail de concertation dans lequel des utilisateurs représentatifs définissent un schéma de données qui décrit le format des fichiers, les différents champs, les valeurs possibles…
 
-En lien étroit avec ces travaux, l’ANCT mène actuellement un projet de cartographie nationale de l’offre de médiation numérique qui vise une première publication en mai 2022. Les données seront ouvertes pour développer une multitude d’usages : guider les usagers vers une structure de médiation numérique, accompagner les acteurs territoriaux dans le développement de l’offre, analyser l’adéquation entre l’offre et le besoin pour les publics fragiles…
+En lien étroit avec ces travaux, l’ANCT mène actuellement un projet de cartographie nationale de l’offre de médiation numérique qui vise une première publication en mai 2022. Les données seront ouvertes pour développer une multitude d’usages : 
+* Connaître l'offre (structures et formations) de médiation numérique de son territoire
+* Orienter simplement et efficacement les personnes accompagnées vers des structures de médiation numérique proches
+* Pouvoir prendre rdv en direct pour la personne accompagnée auprès d'une structure de médiation numérique
+* Améliorer le pilotage de l’action publique du territoire en matière de médiation numérique en rendant lisible l’offre de médiation numérique
 
 Nous pourrons nous appuyer sur le schéma développé par AidantsConnect, aujourd’hui peu utilisé, pour construire ensemble un schéma plus simple et ancré dans les usages des acteurs de la médiation numérique. Ce travail est piloté par l’Agence nationale pour la cohésion des territoires (ANCT), La MedNum avec l’appui de Datactivist. La concertation autour du standard se structurera autour de cercles concentriques : un comité de pilotage proposera des arbitrages autour des suggestions d’un groupe ouvert de contributeurs. 
 
@@ -36,3 +40,11 @@ de l'action sociale de la collectivité](https://github.com/datactivist/standard
 
 * [Compte-rendu de l'atelier](https://github.com/datactivist/standard-mediation/blob/main/Compte%20rendu%20COPIL%20%232.pdf)
 * [Présentation de data inclusion](https://github.com/datactivist/standard-mediation/blob/main/Data%20Inclusion_DORA_Mai%2022.pptx%20(1).pdf)
+
+#### Atelier ouvert du 13 mai 2022 
+
+* [Compte-rendu de l'atelier](https://github.com/datactivist/standard-mediation/blob/main/Compte%20rendu%20atelier%20%232.pdf)
+
+#### Atelier ouvert du 25 mai 2022 
+
+* Compte-rendu en cours de rédaction
