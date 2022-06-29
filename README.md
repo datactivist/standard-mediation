@@ -48,4 +48,4 @@ de l'action sociale de la collectivité](https://github.com/datactivist/standard
 
 #### Atelier ouvert du 25 mai 2022 
 
-* Compte-rendu en cours de rédaction
+* [Compte-rendu en cours de rédaction](https://github.com/datactivist/standard-mediation/blob/main/Compte%20rendu%20atelier%20%233.pdf)
