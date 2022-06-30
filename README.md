@@ -49,3 +49,9 @@ de l'action sociale de la collectivité](https://github.com/datactivist/standard
 #### Atelier ouvert du 25 mai 2022 
 
 * [Compte-rendu en cours de rédaction](https://github.com/datactivist/standard-mediation/blob/main/Compte%20rendu%20atelier%20%233.pdf)
+
+#### Comité de pilotage du 29 juin 2022
+* [Compte-rendu du COPIL](https://github.com/datactivist/standard-mediation/blob/main/Compte%20rendu%20COPIL%20Validation%20standard.pdf)
+* [Support de présentation](https://github.com/datactivist/standard-mediation/blob/main/Copil%234%20-%20arbitrage%20suite%20a%CC%80%20l'AAC.pptx.pdf)
+
+
